@@ -5,6 +5,9 @@ application up and running.
 
 Things you may want to cover:
 
+本应用为数据建模规范指导工具
+
+
 * Ruby version
 
 * System dependencies
